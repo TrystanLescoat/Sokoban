@@ -2,7 +2,8 @@
 
 Bonjour,
 
-Avant de vous expliquez le but du jeu et son fonctionnement, je vous invite à installer ncurses (sudo apt-get install libncurses5-dev)et à clone le repository (git clone git@github.com:TrystanLescoat/Sokoban.git).
+Avant de vous expliquez le but du jeu et son fonctionnement, je vous invite à installer ncurses (sudo apt-get install libncurses5-dev)et à clone le repository :
+`git clone git@github.com:TrystanLescoat/Sokoban.git`
 
 Mon Sokoban consiste à pousser les 'X' (dans un Sokoban classique les 'X' représentent des boites)
 sur des 'O' (qui représentent l'emplacement où doivent aller les boites).
