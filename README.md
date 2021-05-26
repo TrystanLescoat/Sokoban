@@ -4,7 +4,7 @@ Bonjour,
 
 Avant de vous expliquez le but du jeu et son fonctionnement, je vous invite à installer ncurses (sudo apt-get install libncurses5-dev).
 
-Je vous présente mon Sokoban, qui consiste à pousser les 'X' (dans un Sokoban classique les 'X' représentent des boites)
+Mon Sokoban consiste à pousser les 'X' (dans un Sokoban classique les 'X' représentent des boites)
 sur des 'O' (qui représentent l'emplacement où doivent aller les boites).
 Les '#' représentent les limites de la map et le 'P' représente l'emplacement du joueur.
 Pour vous déplacez, il faut utiliser les flèches du clavier (flèches du haut pour aller en haut, flèches du bas pour aller en bas,
